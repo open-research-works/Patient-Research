@@ -6,11 +6,8 @@ wide: true
 
 <section class="hero">
 <div class="eyebrow">Unabhängiges Patienten-Research</div>
-
-# Medizinische Fragen weiterdenken, wenn Routinebefunde nicht reichen
-
-<div class="hero-copy">Patient Research sammelt wenige, ausführliche und fortlaufend aktualisierte Dossiers. Eigene Beobachtungen, objektive Befunde, wissenschaftliche Evidenz und offene Hypothesen werden bewusst getrennt.</div>
-
+<h1>Medizinische Fragen weiterdenken, wenn Routinebefunde nicht reichen</h1>
+<p class="hero-copy">Patient Research sammelt wenige, ausführliche und fortlaufend aktualisierte Dossiers. Eigene Beobachtungen, objektive Befunde, wissenschaftliche Evidenz und offene Hypothesen werden bewusst getrennt.</p>
 <div class="quicklinks">
 <a href="{{ '/themen.html' | relative_url }}">Themenübersicht</a>
 <a href="{{ '/methodik.html' | relative_url }}">Wie hier gearbeitet wird</a>
@@ -20,17 +17,17 @@ wide: true
 
 <div class="section-title"><h2>Aktuelles Dossier</h2></div>
 
-<a class="card featured" href="{{ '/artikel/gi-dossier/' | relative_url }}">
+<div class="card featured">
 <div class="meta">Darm & Mikrobiom · lebendes Dossier</div>
-<h3>Schleim im Stuhl, Druck und Brennen</h3>
+<h3><a href="{{ '/artikel/gi-dossier/' | relative_url }}">Schleim im Stuhl, Druck und Brennen</a></h3>
 <p>Ein komplexer GI-Verlauf mit mikrobiologischen Auffälligkeiten, wechselnden Reaktionen und bislang unvollständiger Gesamterklärung. Der Artikel wächst mit neuen Befunden, Diagnostik und Literatur.</p>
 <div class="status-row"><span class="pill live">Version 0.1</span><span class="pill">zuletzt inhaltlich aktualisiert 12.09.2026</span></div>
-</a>
+</div>
 
 <div class="section-title"><h2>Themen</h2><a href="{{ '/themen.html' | relative_url }}">alle Themen →</a></div>
 
 <div class="grid">
-<a class="card" href="{{ '/artikel/gi-dossier/' | relative_url }}"><div class="meta">01</div><h3>Darm & Mikrobiom</h3><p>Schleim, Brennen, Dysbiose, kultivierte Keime, Phagen und offene GI-Diagnostik.</p></a>
+<div class="card"><div class="meta">01</div><h3><a href="{{ '/artikel/gi-dossier/' | relative_url }}">Darm & Mikrobiom</a></h3><p>Schleim, Brennen, Dysbiose, kultivierte Keime, Phagen und offene GI-Diagnostik.</p></div>
 <div class="card"><div class="meta">02 · im Aufbau</div><h3>Diagnostik & Spezialdiagnostik</h3><p>Was Standarddiagnostik wirklich ausschließt – und wann Motilität, Dünndarm, Histologie oder Molekulardiagnostik relevant werden.</p></div>
 <div class="card"><div class="meta">03 · im Aufbau</div><h3>Therapien & N-of-1</h3><p>Reproduzierbare Reaktionen, Gegenbeispiele und die Grenze zwischen Beobachtung und Kausalität.</p></div>
 <div class="card"><div class="meta">04 · im Aufbau</div><h3>ME/CFS & Long Covid</h3><p>Mechanismen, Diagnostik, Studien und praktische Versorgung – ohne jede neue Hypothese vorschnell zur Erklärung zu machen.</p></div>
