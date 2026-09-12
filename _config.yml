@@ -3,3 +3,8 @@ description: Evidenzorientierte, fortlaufend aktualisierte Dossiers zu komplexen
 baseurl: /Patient-Research
 theme: minima
 lang: de-DE
+header_pages:
+  - themen.md
+  - methodik.md
+  - ueber.md
+show_excerpts: true
