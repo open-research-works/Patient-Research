@@ -5,10 +5,16 @@ title: Über das Projekt
 
 # Über Patient Research
 
-Patient Research ist ein persönliches, unabhängiges Projekt für ausführliche medizinische Recherche und fortlaufende Falldossiers.
+Patient Research ist ein persönliches, unabhängiges Projekt für ausführliche Recherche und fortlaufende medizinische Falldossiers.
 
-Im Mittelpunkt stehen Fragen, bei denen Routinediagnostik, tatsächliche Beschwerden und verfügbare Spezialdiagnostik nicht sauber zusammenpassen.
+Im Mittelpunkt stehen Fragen, bei denen **Beschwerden, Routinebefunde und verfügbare Spezialdiagnostik nicht sauber zusammenpassen**.
 
-Der eigene Verlauf dient teilweise als reale Fallbasis. Persönliche Beobachtungen werden dabei von wissenschaftlichen Aussagen getrennt.
+Der eigene Verlauf dient teilweise als reale Fallbasis. Persönliche Beobachtungen werden dabei von objektiven Befunden und wissenschaftlichen Aussagen getrennt.
 
-Das Projekt ist derzeit **nicht** die offizielle Publikation eines Vereins oder einer medizinischen Einrichtung.
+## Warum dieses Format?
+
+Statt viele kurze Beiträge nebeneinanderzustellen, werden wenige Hauptseiten über längere Zeit fortgeschrieben. Neue Daten werden ergänzt, alte Annahmen sichtbar korrigiert und offene Punkte bleiben offen markiert.
+
+## Unabhängigkeit
+
+Das Projekt ist derzeit **nicht** die offizielle Publikation eines Vereins, einer medizinischen Einrichtung oder eines Unternehmens.
