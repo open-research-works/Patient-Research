@@ -21,7 +21,7 @@ wide: true
 <div class="meta">Darm & Mikrobiom · lebendes Dossier</div>
 <h3><a href="{{ '/artikel/gi-dossier/' | relative_url }}">Persistierende gastrointestinale Beschwerden bei mikrobiologischen Auffälligkeiten: diagnostische Einordnung eines komplexen Verlaufs</a></h3>
 <p>Schleim, Druck, Brennen, auffällige Mikrobiologie und die Frage, was Routinediagnostik tatsächlich erklärt – und was offen bleibt.</p>
-<div class="status-row"><span class="pill live">Version 0.1</span><span class="pill">zuletzt inhaltlich aktualisiert 12.09.2026</span></div>
+<div class="status-row"><span class="pill live">Aktualisiert 13.09.2026</span><span class="pill">Erstfassung 12.09.2026</span></div>
 </div>
 
 <div class="section-title"><h2>Themen</h2><a href="{{ '/themen.html' | relative_url }}">alle Themen →</a></div>
