@@ -11,7 +11,7 @@ permalink: /artikel/gi-dossier/
 
 **Schleim, Druck, Brennen, auffällige Mikrobiologie und die Frage, was Routinediagnostik tatsächlich erklärt – und was offen bleibt.**
 
-<div class="status-row"><span class="pill live">Version 0.1</span><span class="pill">Erstfassung 12.09.2026</span><span class="pill">laufend ergänzt</span></div>
+<div class="status-row"><span class="pill live">Zuletzt aktualisiert 13.09.2026</span><span class="pill">Erstfassung 12.09.2026</span></div>
 
 > Dieser Beitrag ist absichtlich kein abgeschlossener Blogpost. Neue Befunde, Untersuchungen, Studien und Korrekturen werden in denselben Artikel integriert.
 
@@ -193,15 +193,15 @@ Der derzeitige Stand beweist nicht:
 
 ## Änderungsverlauf
 
-### Version 0.1 – 12.09.2026
+### 12.09.2026 – Erstfassung
 
 Erste Fassung des lebenden GI-Dossiers mit aktuellem Symptomkomplex, mikrobiologischer Vorgeschichte, kultivierten Isolaten, Phagogramm, Phagenbeobachtungen und diagnostischen Hauptachsen.
 
-### Redaktionelle Struktur – 13.09.2026
+### 13.09.2026 – Redaktionelle Struktur
 
-Navigation, Inhaltsverzeichnis und Evidenzdarstellung für die öffentliche Wissensarchiv-Version überarbeitet; medizinische Kernaussagen der Version 0.1 nicht erweitert.
+Navigation, Inhaltsverzeichnis und Evidenzdarstellung für die öffentliche Wissensarchiv-Version überarbeitet; medizinische Kernaussagen der Erstfassung nicht erweitert.
 
-### Titelstruktur – 13.09.2026
+### 13.09.2026 – Titelstruktur
 
 Der Haupttitel wurde wissenschaftlicher und ätiologisch neutral formuliert; die konkreten Symptome bleiben im Untertitel.
 
