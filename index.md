@@ -19,7 +19,7 @@ wide: true
 
 <div class="card featured">
 <div class="meta">Darm & Mikrobiom · lebendes Dossier</div>
-<h3><a href="{{ '/artikel/gi-dossier/' | relative_url }}">Darm & Mikrobiom: Beschwerden trotz unklarer Diagnostik</a></h3>
+<h3><a href="{{ '/artikel/gi-dossier/' | relative_url }}">Persistierende gastrointestinale Beschwerden bei mikrobiologischen Auffälligkeiten: diagnostische Einordnung eines komplexen Verlaufs</a></h3>
 <p>Schleim, Druck, Brennen, auffällige Mikrobiologie und die Frage, was Routinediagnostik tatsächlich erklärt – und was offen bleibt.</p>
 <div class="status-row"><span class="pill live">Version 0.1</span><span class="pill">zuletzt inhaltlich aktualisiert 12.09.2026</span></div>
 </div>
