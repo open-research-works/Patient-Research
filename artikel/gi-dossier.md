@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Darm & Mikrobiom: Beschwerden trotz unklarer Diagnostik"
+title: "Persistierende gastrointestinale Beschwerden bei mikrobiologischen Auffälligkeiten: diagnostische Einordnung eines komplexen Verlaufs"
 description: "Fortlaufendes GI-Dossier zu Schleim, Druck, Brennen, Dysbiose, E.-coli-Isolaten, Phagen und offenen diagnostischen Fragen."
 permalink: /artikel/gi-dossier/
 ---
 
 <div class="eyebrow">Darm & Mikrobiom · lebendes Dossier</div>
 
-# Darm & Mikrobiom: Beschwerden trotz unklarer Diagnostik
+# Persistierende gastrointestinale Beschwerden bei mikrobiologischen Auffälligkeiten: diagnostische Einordnung eines komplexen Verlaufs
 
 **Schleim, Druck, Brennen, auffällige Mikrobiologie und die Frage, was Routinediagnostik tatsächlich erklärt – und was offen bleibt.**
 
@@ -203,7 +203,7 @@ Navigation, Inhaltsverzeichnis und Evidenzdarstellung für die öffentliche Wiss
 
 ### Titelstruktur – 13.09.2026
 
-Der Haupttitel wurde themenorientiert formuliert. Die konkreten Symptome stehen jetzt im Untertitel statt im Seitentitel.
+Der Haupttitel wurde wissenschaftlicher und ätiologisch neutral formuliert; die konkreten Symptome bleiben im Untertitel.
 
 ---
 
