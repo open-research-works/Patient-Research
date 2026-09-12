@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "Schleim im Stuhl, Druck und Brennen: ein fortlaufendes GI-Dossier"
-description: "Fortlaufendes Falldossier zu Schleim, Druck, Brennen, Dysbiose, E.-coli-Isolaten, Phagen und offener GI-Diagnostik."
+title: "Darm & Mikrobiom: Beschwerden trotz unklarer Diagnostik"
+description: "Fortlaufendes GI-Dossier zu Schleim, Druck, Brennen, Dysbiose, E.-coli-Isolaten, Phagen und offenen diagnostischen Fragen."
 permalink: /artikel/gi-dossier/
 ---
 
 <div class="eyebrow">Darm & Mikrobiom · lebendes Dossier</div>
 
-# Schleim im Stuhl, Druck und Brennen
+# Darm & Mikrobiom: Beschwerden trotz unklarer Diagnostik
+
+**Schleim, Druck, Brennen, auffällige Mikrobiologie und die Frage, was Routinediagnostik tatsächlich erklärt – und was offen bleibt.**
 
 <div class="status-row"><span class="pill live">Version 0.1</span><span class="pill">Erstfassung 12.09.2026</span><span class="pill">laufend ergänzt</span></div>
 
@@ -198,6 +200,10 @@ Erste Fassung des lebenden GI-Dossiers mit aktuellem Symptomkomplex, mikrobiolog
 ### Redaktionelle Struktur – 13.09.2026
 
 Navigation, Inhaltsverzeichnis und Evidenzdarstellung für die öffentliche Wissensarchiv-Version überarbeitet; medizinische Kernaussagen der Version 0.1 nicht erweitert.
+
+### Titelstruktur – 13.09.2026
+
+Der Haupttitel wurde themenorientiert formuliert. Die konkreten Symptome stehen jetzt im Untertitel statt im Seitentitel.
 
 ---
 
