@@ -1,10 +1,8 @@
 title: Patient Research
 description: Evidenzorientierte, fortlaufend aktualisierte Dossiers zu komplexen medizinischen Fragen.
+url: https://open-research-works.github.io
 baseurl: /Patient-Research
-theme: minima
 lang: de-DE
-header_pages:
-  - themen.md
-  - methodik.md
-  - ueber.md
-show_excerpts: true
+prelaunch: true
+markdown: kramdown
+permalink: pretty
