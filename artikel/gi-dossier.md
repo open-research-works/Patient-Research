@@ -1,14 +1,15 @@
 ---
 layout: page
 title: "Schleim im Stuhl, Druck und Brennen: ein fortlaufendes GI-Dossier"
+description: "Fortlaufendes Falldossier zu Schleim, Druck, Brennen, Dysbiose, E.-coli-Isolaten, Phagen und offener GI-Diagnostik."
+permalink: /artikel/gi-dossier/
 ---
 
-# Schleim im Stuhl, Druck und Brennen: ein fortlaufendes GI-Dossier
+<div class="eyebrow">Darm & Mikrobiom · lebendes Dossier</div>
 
-**Erstveröffentlichung:** 12.09.2026  
-**Zuletzt aktualisiert:** 12.09.2026  
-**Version:** 0.1  
-**Status:** lebendes Dossier
+# Schleim im Stuhl, Druck und Brennen
+
+<div class="status-row"><span class="pill live">Version 0.1</span><span class="pill">Erstfassung 12.09.2026</span><span class="pill">laufend ergänzt</span></div>
 
 > Dieser Beitrag ist absichtlich kein abgeschlossener Blogpost. Neue Befunde, Untersuchungen, Studien und Korrekturen werden in denselben Artikel integriert.
 
@@ -16,9 +17,22 @@ title: "Schleim im Stuhl, Druck und Brennen: ein fortlaufendes GI-Dossier"
 
 Im Mittelpunkt stehen wiederkehrender intestinaler Druck, vermehrter Schleim im Stuhl, brennende Beschwerden und nächtliches Erwachen. Gleichzeitig liegen objektive mikrobiologische Auffälligkeiten vor, ohne dass daraus bisher eine eindeutige Gesamtdiagnose folgt.
 
-Die zentrale Frage lautet deshalb nicht: **Welche eine Krankheit ist das?**
+Die zentrale Frage lautet deshalb nicht nur **„Welche eine Krankheit ist das?“**, sondern: **Welche Teile des Symptombildes lassen sich objektiv erklären, welche Befunde sind möglicherweise relevant – und welche diagnostischen Lücken bleiben?**
 
-Sondern: **Welche Teile des Symptombildes lassen sich objektiv erklären, welche Befunde sind möglicherweise relevant, welche nur Begleiterscheinungen – und welche diagnostischen Lücken bleiben?**
+<div class="toc">
+<strong>Inhalt</strong>
+<ul>
+<li><a href="#aktuelles-symptombild">Aktuelles Symptombild</a></li>
+<li><a href="#was-objektiv-bereits-bekannt-ist">Was objektiv bereits bekannt ist</a></li>
+<li><a href="#kultivierte-keime-nicht-einfach-der-e-coli">Kultivierte Keime und E.-coli-Isolate</a></li>
+<li><a href="#phagen-auffällige-zeitliche-reaktionen-aber-keine-klare-erklärung">Phagenbeobachtungen</a></li>
+<li><a href="#das-eigentliche-diagnostische-problem">Diagnostische Hauptachsen</a></li>
+<li><a href="#was-dieser-fall-bisher-gerade-nicht-beweist">Was der Fall nicht beweist</a></li>
+<li><a href="#die-derzeit-interessantesten-offenen-fragen">Offene Fragen</a></li>
+<li><a href="#evidenzstatus">Evidenzstatus</a></li>
+<li><a href="#änderungsverlauf">Änderungsverlauf</a></li>
+</ul>
+</div>
 
 ## Aktuelles Symptombild
 
@@ -35,7 +49,7 @@ Stand September 2026 bestehen phasenweise:
 
 Eine wichtige Beobachtung ist, dass verschiedene Beschwerdekomponenten offenbar **nicht gleich auf dieselben Mittel reagieren**. Frühere Beschwerden reagierten teilweise deutlich auf Dapson; das gegenwärtige Brennen und der aktuelle GI-Druck zeigen dieses Muster nicht in gleicher Weise. Schmerzmittel verändern die Beschwerden zum Teil, beseitigen das Grundproblem aber nicht.
 
-**Einordnung:** Das ist eine N-of-1-Beobachtung und kein diagnostischer Beweis für einen bestimmten Mechanismus.
+<div class="note"><strong>N-of-1:</strong> Diese unterschiedliche Reaktion ist eine Beobachtung im Einzelfall und kein diagnostischer Beweis für einen bestimmten Mechanismus.</div>
 
 ## Was objektiv bereits bekannt ist
 
@@ -66,13 +80,9 @@ Aus einer späteren Kultur wurden mehrere Keime mit hohem Wachstum isoliert:
 4. Enterococcus faecium
 5. Enterococcus gallinarum
 
-Besonders interessant: Die beiden E.-coli-Isolate verhalten sich gegenüber getesteten Phagen unterschiedlich.
+Die beiden E.-coli-Isolate verhalten sich gegenüber getesteten Phagen unterschiedlich. Das verwendete Sextaphag zeigte in vitro eine deutliche Reaktion gegen den hämolysierenden E. coli und gegen Proteus mirabilis, während E. coli Isolat 1 resistent war.
 
-Das verwendete Sextaphag zeigte in vitro eine deutliche Reaktion gegen den hämolysierenden E. coli und gegen Proteus mirabilis, während E. coli Isolat 1 resistent war.
-
-Damit ist zumindest klar:
-
-**Eine hohe E.-coli-Belastung ist mikrobiologisch nicht automatisch ein einheitliches Problem.**
+**Damit ist zumindest klar:** Eine hohe E.-coli-Belastung ist mikrobiologisch nicht automatisch ein einheitliches Problem.
 
 Noch offen ist die vollständige molekulare Charakterisierung der Isolate. Pathotypisierung bzw. Whole-Genome-Sequencing können deshalb später einen wichtigen Teil dieses Dossiers verändern.
 
@@ -80,9 +90,7 @@ Noch offen ist die vollständige molekulare Charakterisierung der Isolate. Patho
 
 Während eines Versuchs mit einem polyvalenten Bakteriophagenpräparat traten wiederholt GI-Veränderungen auf.
 
-Am 8. September 2026 wurde nach einer rektalen Gabe von ungefähr 8–9 ml ein starker Druck mit relativ wenig Gas beschrieben. Beim Toilettengang bestand der Stuhl überwiegend aus Schleim.
-
-Schon an vorherigen Tagen waren nach Phagengaben zeitlich versetzt Druck, Blähungen oder Unruhe dokumentiert worden.
+Am 8. September 2026 wurde nach einer rektalen Gabe von ungefähr 8–9 ml ein starker Druck mit relativ wenig Gas beschrieben. Beim Toilettengang bestand der Stuhl überwiegend aus Schleim. Schon an vorherigen Tagen waren nach Phagengaben zeitlich versetzt Druck, Blähungen oder Unruhe dokumentiert worden.
 
 ### Gesichert
 
@@ -101,13 +109,9 @@ Nicht bewiesen ist:
 
 Der weitere Verlauf ist deshalb wichtig: Schleim, Druck und Brennen bestanden auch weiter, als keine unmittelbar vorausgehende Phagendosis dokumentiert war. Eine rein kurzfristige Reaktion auf die jeweilige Gabe ist damit als vollständige Erklärung weniger überzeugend.
 
-## Wasserkefir: mögliche Modifikation, keine gute Erklärung für den Beginn
+### Wasserkefir als zusätzliche Variable
 
-In der aktuellen Phase wurde zusätzlich einige Tage lang Wasserkefir getrunken.
-
-Zeitlich wichtig ist jedoch: **Der ausgeprägte Schleim und starke Druck waren bereits vorher dokumentiert.**
-
-Damit eignet sich der Wasserkefir nicht als Erklärung für den Beginn des aktuellen Symptomkomplexes. Ob fermentierte Getränke einen bestehenden empfindlichen GI-Zustand verstärken oder abschwächen, bleibt offen.
+In der aktuellen Phase wurde zusätzlich einige Tage lang Wasserkefir getrunken. Zeitlich wichtig ist jedoch: **Der ausgeprägte Schleim und starke Druck waren bereits vorher dokumentiert.** Damit eignet sich der Wasserkefir nicht als Erklärung für den Beginn des aktuellen Symptomkomplexes. Ob fermentierte Getränke einen bestehenden empfindlichen GI-Zustand verstärken oder abschwächen, bleibt offen.
 
 ## Das eigentliche diagnostische Problem
 
@@ -115,48 +119,23 @@ Die bisherigen Daten lassen mehrere Ebenen gleichzeitig zu.
 
 ### 1. Entzündung / Mukosa
 
-Schleim und nächtliche Beschwerden werfen die Frage auf, ob ein entzündlicher oder mukosaler Prozess ausreichend erfasst wurde.
-
-Relevant sind unter anderem:
-
-- fäkales Calprotectin während einer aktiven Phase,
-- endoskopische Befunde,
-- Histologie und Biopsien,
-- Verlauf objektiver Entzündungsmarker.
+Schleim und nächtliche Beschwerden werfen die Frage auf, ob ein entzündlicher oder mukosaler Prozess ausreichend erfasst wurde. Relevant sind unter anderem fäkales Calprotectin während einer aktiven Phase, endoskopische Befunde, Histologie/Biopsien und der Verlauf objektiver Entzündungsmarker.
 
 ### 2. Infektion / persistierende oder neue mikrobielle Faktoren
 
-Die Vorgeschichte mit EPEC, C. difficile und auffälliger Kultur macht eine infektiologische bzw. mikrobiologische Achse relevant.
-
-Dabei muss getrennt werden zwischen:
-
-- bloßer Besiedlung,
-- ökologischer Dysbiose,
-- tatsächlichem Pathotyp,
-- aktiver Infektion,
-- möglicher Virulenz einzelner Isolate.
-
-Genau deshalb ist die molekulare Charakterisierung der kultivierten E.-coli-Isolate interessanter als eine bloße Gesamtmenge „E. coli“.
+Die Vorgeschichte mit EPEC, C. difficile und auffälliger Kultur macht eine infektiologische bzw. mikrobiologische Achse relevant. Dabei muss getrennt werden zwischen bloßer Besiedlung, ökologischer Dysbiose, tatsächlichem Pathotyp, aktiver Infektion und möglicher Virulenz einzelner Isolate.
 
 ### 3. Motilität
 
-Druck, wechselnder Stuhlgang und zeitweise Besserung nach Defäkation können zusätzlich zu einer Motilitätskomponente passen.
-
-Das praktische Problem: weiterführende Motilitätsdiagnostik ist nicht überall leicht zugänglich und hängt zum Teil von spezialisierten Ambulanzen ab.
-
-Eine Motilitätsstörung würde jedoch nicht automatisch alle anderen Befunde erklären.
+Druck, wechselnder Stuhlgang und zeitweise Besserung nach Defäkation können zusätzlich zu einer Motilitätskomponente passen. Das praktische Problem: weiterführende Motilitätsdiagnostik ist nicht überall leicht zugänglich und hängt zum Teil von spezialisierten Ambulanzen ab.
 
 ### 4. Dünndarm
 
-Die subjektive Lokalisation eines Brennens kann nicht zuverlässig sagen, ob Dünn- oder Dickdarm betroffen sind.
-
-Wenn Standardendoskopie keine ausreichende Erklärung liefert, stellt sich deshalb die Frage, welche Dünndarmdiagnostik im konkreten Fall sinnvoll und zugänglich ist.
+Die subjektive Lokalisation eines Brennens kann nicht zuverlässig sagen, ob Dünn- oder Dickdarm betroffen sind. Wenn Standardendoskopie keine ausreichende Erklärung liefert, stellt sich deshalb die Frage, welche Dünndarmdiagnostik im konkreten Fall sinnvoll und zugänglich ist.
 
 ### 5. Viszerale Sensitivität / funktionelle Verstärkung
 
-Eine erhöhte viszerale Sensitivität kann die Schmerzintensität beeinflussen.
-
-Sie darf aber nicht automatisch als Gesamterklärung verwendet werden, solange gleichzeitig objektive mikrobiologische Auffälligkeiten und offene diagnostische Achsen bestehen.
+Eine erhöhte viszerale Sensitivität kann die Schmerzintensität beeinflussen. Sie darf aber nicht automatisch als Gesamterklärung verwendet werden, solange gleichzeitig objektive mikrobiologische Auffälligkeiten und offene diagnostische Achsen bestehen.
 
 ## Was dieser Fall bisher gerade nicht beweist
 
@@ -169,7 +148,7 @@ Der derzeitige Stand beweist nicht:
 - dass fehlende Routinebefunde eine funktionelle Ursache beweisen,
 - dass eine einzelne Medikamentenreaktion einen Mechanismus diagnostiziert.
 
-Das ist ein wichtiger Teil dieses Dossiers: **auffällige Daten nicht größer machen, als sie sind.**
+<div class="note"><strong>Arbeitsregel:</strong> Auffällige Daten nicht größer machen, als sie sind – und normale Routinebefunde nicht größer machen, als sie sind.</div>
 
 ## Die derzeit interessantesten offenen Fragen
 
@@ -183,8 +162,6 @@ Das ist ein wichtiger Teil dieses Dossiers: **auffällige Daten nicht größer m
 8. Welche Beschwerden korrelieren reproduzierbar mit Stuhlgang, Nahrung oder Interventionen – und welche nicht?
 
 ## Nächste Erweiterungsmodule
-
-Dieser Beitrag wird erweitert, sobald belastbare neue Informationen vorliegen:
 
 - Calprotectin / CRP / Entzündungsmarker
 - Koloskopie, Gastroskopie und Histologie
@@ -217,6 +194,10 @@ Dieser Beitrag wird erweitert, sobald belastbare neue Informationen vorliegen:
 ### Version 0.1 – 12.09.2026
 
 Erste Fassung des lebenden GI-Dossiers mit aktuellem Symptomkomplex, mikrobiologischer Vorgeschichte, kultivierten Isolaten, Phagogramm, Phagenbeobachtungen und diagnostischen Hauptachsen.
+
+### Redaktionelle Struktur – 13.09.2026
+
+Navigation, Inhaltsverzeichnis und Evidenzdarstellung für die öffentliche Wissensarchiv-Version überarbeitet; medizinische Kernaussagen der Version 0.1 nicht erweitert.
 
 ---
 
